@@ -1,7 +1,7 @@
 //Question 2: Reverse Integer
 
 import java.util.*;
-public class ReverseInteger {
+public class Q2ReverseInteger {
 
     public static int reverse(int x) {
 

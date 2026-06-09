@@ -1,7 +1,7 @@
 //Question 3: Q3-Subtract-the-Product-and-Sum-Of-Digits-of-an-Integer
 
 import java.util.*;
-public class SubtracttheProductandSumofDigits {
+public class Q3SubtracttheProductandSumofDigits {
 
     public static int subtractProductAndSum(int n) {
 

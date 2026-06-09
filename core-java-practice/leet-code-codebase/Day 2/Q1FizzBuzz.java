@@ -1,7 +1,7 @@
 //Question 1: FizzBuzz
 
 import java.util.*;
-public class FizzBuzz {
+public class Q1FizzBuzz {
 
     public static List<String> fizzBuzz(int n) {
 

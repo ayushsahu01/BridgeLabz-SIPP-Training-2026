@@ -1,7 +1,7 @@
 //Question 2: Roman to Integer
 
 import java.util.*;
-public class RomanToInteger {
+public class Q2RomanToInteger {
 
     public static int romanToInt(String s) {
 

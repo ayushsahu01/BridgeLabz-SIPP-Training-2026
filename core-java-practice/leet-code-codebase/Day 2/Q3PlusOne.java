@@ -1,7 +1,7 @@
 //Question 4: PlusOne
 
 import java.util.*;
-public class PlusOne {
+public class Q3PlusOne {
 
     public static int[] plusOne(int[] digits) {
 

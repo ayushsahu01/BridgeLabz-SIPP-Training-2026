@@ -1,7 +1,7 @@
 //Question 4: Number of Steps to Reduce a Number to Zero
 
 import java.util.*;;
-public class NumberofStepstoReduceaNumbertoZero {
+public class Q4NumberofStepstoReduceaNumbertoZero {
 
     public static int numberOfSteps(int num) {
 
