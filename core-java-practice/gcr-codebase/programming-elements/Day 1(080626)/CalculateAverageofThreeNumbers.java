@@ -1,5 +1,5 @@
 import java.util.*;
-public class SelfProblems4 {
+public class CalculateAverageofThreeNumbers {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter 1st Number:");

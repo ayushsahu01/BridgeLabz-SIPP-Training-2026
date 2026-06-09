@@ -1,5 +1,5 @@
 import java.util.*;
-public class AssistedProblems4 {
+public class AreaofaCircle {
     public static void main(String arhs[]){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Radius of the Circle:");

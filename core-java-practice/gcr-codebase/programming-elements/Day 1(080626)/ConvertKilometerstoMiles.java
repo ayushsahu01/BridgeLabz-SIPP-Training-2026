@@ -1,5 +1,5 @@
 import java.util.*;
-public class SelfProblems5 {
+public class ConvertKilometerstoMiles {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter distance in kilometers:");

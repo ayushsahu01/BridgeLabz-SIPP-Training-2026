@@ -1,5 +1,5 @@
 import java.util.*;
-public class ScenerioBasedQuestion {
+public class StoryBasedSampleProgram {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.println("Hii Ravi, Please Share Your Details Below");
