@@ -2,7 +2,6 @@ import java.util.*;
 
 public class StoryBasedSampleProgram {
 
-    // Function to find max, min, total stock, and duplicates
     public static void analyzeStock(int[] arr) {
 
         int max = arr[0];
@@ -14,20 +13,16 @@ public class StoryBasedSampleProgram {
 
         for (int num : arr) {
 
-            // Max
             if (num > max) {
                 max = num;
             }
 
-            // Min
             if (num < min) {
                 min = num;
             }
 
-            // Sum
             sum += num;
 
-            // Duplicate check
             if (set.contains(num)) {
                 hasDuplicate = true;
             }
@@ -41,7 +36,6 @@ public class StoryBasedSampleProgram {
         System.out.println("Contains Duplicates: " + hasDuplicate);
     }
 
-    // Function to rotate array by k positions
     public static void rotateArray(int[] arr, int k) {
 
         int n = arr.length;
@@ -62,7 +56,6 @@ public class StoryBasedSampleProgram {
         System.out.println();
     }
 
-    // Function to transpose 2D matrix
     public static void transposeMatrix(int[][] matrix) {
 
         int rows = matrix.length;
@@ -90,7 +83,6 @@ public class StoryBasedSampleProgram {
 
         Scanner sc = new Scanner(System.in);
 
-        // 1D Array Input
         System.out.print("Enter size of stock array: ");
         int n = sc.nextInt();
 
@@ -102,16 +94,13 @@ public class StoryBasedSampleProgram {
             stock[i] = sc.nextInt();
         }
 
-        // Analyze stock
         analyzeStock(stock);
 
-        // Rotate array
         System.out.print("Enter k for rotation: ");
         int k = sc.nextInt();
 
         rotateArray(stock, k);
 
-        // 2D Matrix Input
         System.out.print("Enter rows of shelf grid: ");
         int rows = sc.nextInt();
 
@@ -127,10 +116,7 @@ public class StoryBasedSampleProgram {
                 matrix[i][j] = sc.nextInt();
             }
         }
-
-        // Transpose matrix
         transposeMatrix(matrix);
-
         sc.close();
     }
 }
