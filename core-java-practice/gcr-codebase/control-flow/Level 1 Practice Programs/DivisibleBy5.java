@@ -8,5 +8,6 @@ public class DivisibleBy5 {
         boolean result = (number % 5 == 0);
 
         System.out.println("Is the number " + number + " divisible by 5? " + result);
+        sc.close();
     }
 }
