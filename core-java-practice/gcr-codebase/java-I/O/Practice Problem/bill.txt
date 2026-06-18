@@ -1,0 +1,4 @@
+Milk - 50
+Bread - 40
+Rice - 500
+Sugar - 60
