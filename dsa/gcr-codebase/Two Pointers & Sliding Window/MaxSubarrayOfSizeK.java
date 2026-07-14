@@ -1,4 +1,4 @@
- public class MaxSubarrayOfSizek {
+ public class MaxSubarrayOfSizeK {
 
     public static int maxSubarrayOfSizeK(int[] cpuLoad, int k) {
 
