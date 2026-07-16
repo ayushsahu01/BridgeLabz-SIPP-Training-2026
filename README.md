@@ -88,7 +88,6 @@ BridgeLabz-SIPP-Training-2026/
 | DSA Basics | ✅ Completed |
 | Trees | ✅ Completed |
 | Graphs | 🔄 In Progress |
-| Dynamic Programming | 🔄 In Progress |
 
 ---
 
@@ -110,18 +109,6 @@ BridgeLabz-SIPP-Training-2026/
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ayushsahu01&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsahu01&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -140,7 +127,7 @@ BridgeLabz-SIPP-Training-2026/
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/ayushsahu01">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
