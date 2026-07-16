@@ -72,7 +72,6 @@ BridgeLabz-SIPP-Training-2026/
 - ✅ Graph
 - ✅ Hashing
 - ✅ Recursion
-- ✅ Dynamic Programming
 - ✅ SQL
 - ✅ Problem Solving
 
